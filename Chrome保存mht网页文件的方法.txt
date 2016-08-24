@@ -1,0 +1,1 @@
+在 Chrome 地址栏中键入“chrome://flags”，回车，这是一个 Chrome 的功能配置页面，项目比较多，我们通过 Ctrl+F 来搜索“mhtml”，找到“将网页另存为 MHTML”这一项，然后点击下方的“启用”即可
